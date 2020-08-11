@@ -1,0 +1,16 @@
+{
+  "name": "scurribis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcodesUK.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
